@@ -1,7 +1,7 @@
 {
   "Visibility": "VISIBLE",
-  "Title": "خداحافظ",
-  "Description": "تست",
+  "Title": "بروزرسانی جدیدی در دسترس است",
+  "Description": "این آپدیت اجباری میباشد",
   "MainTextButton": "Update",
   "Cancelable": "false",
   "CancelButtonText": "Cancel",
