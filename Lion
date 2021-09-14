@@ -1,10 +1,10 @@
 {
   "Visibility": "VISIBLE",
   "Title": "Test",
-  "Description": "آپدیت دیالوگ اجباری",
-  "MainTextButton": "آپدیت کردن",
-  "Cancelable": "true",
+  "Description": "Test Message",
+  "MainTextButton": "Update",
+  "Cancelable": "false",
   "CancelButtonText": "Cancel",
-  "DownloadLink": "www.google.com",
+  "DownloadLink": "https://google.com",
   "Version": "1.1"
 }
