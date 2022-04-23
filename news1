@@ -1,0 +1,89 @@
+{
+  "success": true,
+  "message": null,
+  "data": {
+    "link": "https://www.cnnindonesia.com/",
+    "description": "CNNIndonesia.com menyajikan berita terbaru, terkini Indonesia seputar nasional, politik, ekonomi, internasional, olahraga, teknologi, hiburan, gaya hidup",
+    "title": "CNN Indonesia | Berita Terbaru, Terkini Indonesia, Dunia",
+    "image": "https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png",
+    "posts": [
+      {
+        "link": "https://www.cnnindonesia.com/nasional/20220423231459-20-788816/km-sinabung-tabrak-km-nusantara-63-saat-sandar-di-biak-papua",
+        "title": "KM Sinabung Tabrak KM Nusantara 63 Saat Sandar di Biak Papua",
+        "pubDate": "2022-04-23T16:42:00.000Z",
+        "description": "KM Sinabung menabrak KM Nusantara 63 sesaat hendak sandar atau berlabuh di pelabuhan Biak, Papua, pada Jumat malam (22/4) sekitar pukul 21.18 WIT.",
+        "thumbnail": "https://akcdn.detik.net.id/visual/2014/12/29/1fd6a511-d40f-4434-88d6-97dacaa0910e_169.jpg?w\u003d360\u0026q\u003d90"
+      },
+      {
+        "link": "https://www.cnnindonesia.com/olahraga/20220423222747-144-788817/foto-arsenal-tutup-peluang-mu-ke-4-besar",
+        "title": "FOTO: Arsenal Tutup Peluang MU ke 4 Besar",
+        "pubDate": "2022-04-23T16:40:07.000Z",
+        "description": "Arsenal disebut menutup peluang Manchester United ke empat besar Liga Inggris usai menang 3-1 di Emirates, Sabtu (23/4).",
+        "thumbnail": "https://akcdn.detik.net.id/visual/2022/04/23/soccer-england-ars-munreport-13_169.jpeg?w\u003d360\u0026q\u003d90"
+      },
+      {
+        "link": "https://www.cnnindonesia.com/nasional/20220423230454-32-788815/dpr-soal-honor-rossa-dna-pro-pekerja-seni-harus-dilindungi-saat-kerja",
+        "title": "DPR soal Honor Rossa DNA Pro: Pekerja Seni Harus Dilindungi Saat Kerja",
+        "pubDate": "2022-04-23T16:13:37.000Z",
+        "description": "Wakil Ketua DPR mengkritisi honor menyanyi Rossa di acara DNA Pro yang disita polisi terkait pengusutan kasus investasi bodong robot trading tersebut.",
+        "thumbnail": "https://akcdn.detik.net.id/visual/2020/07/10/sufmi-dasco-ahmad_169.jpeg?w\u003d360\u0026q\u003d90"
+      },
+      {
+        "link": "https://www.cnnindonesia.com/olahraga/20220423224909-142-788814/hasil-liga-inggris-gabriel-jesus-cetak-4-gol-man-city-bantai-watford",
+        "title": "Hasil Liga Inggris: Gabriel Jesus Cetak 4 Gol, Man City Bantai Watford",
+        "pubDate": "2022-04-23T15:57:22.000Z",
+        "description": "Gabriel Jesus jadi bintang kemenangan Manchester City atas Watford, 5-1, setelah mencetak empat gol pada pekan ke-34 Liga Inggris itu, Sabtu (23/4).",
+        "thumbnail": "https://akcdn.detik.net.id/visual/2022/04/23/soccer-england-mci-watreport_169.jpeg?w\u003d360\u0026q\u003d90"
+      },
+      {
+        "link": "https://www.cnnindonesia.com/olahraga/20220423140141-142-788730/membadut-di-luar-ring-fury-dan-whyte-kobarkan-perang",
+        "title": "Membadut di Luar Ring, Fury dan Whyte Kobarkan Perang",
+        "pubDate": "2022-04-23T15:40:54.000Z",
+        "description": "Tyson Fury dan Dillian Whyte yang tampak akrab di luar ring bertekad mengobarkan perang dalam pertarungan tinju kelas berat, Minggu (24/4).",
+        "thumbnail": "https://akcdn.detik.net.id/visual/2022/04/23/timbang-badan-tyson-fury-vs-dillian-whyte-7_169.jpeg?w\u003d360\u0026q\u003d90"
+      },
+      {
+        "link": "https://www.cnnindonesia.com/internasional/20220423215355-113-788811/kapal-turis-berpenumpang-24-turis-hilang-di-laut-jepang-diduga-karam",
+        "title": "Kapal Turis Berpenumpang 24 Turis Hilang di Laut Jepang, Diduga Karam",
+        "pubDate": "2022-04-23T15:32:24.000Z",
+        "description": "Sebelum diduga karam di lepas pantai Hokkaido, Kapal Kazu 1 yang membawa 24 turis sempat mengirimkan sinyal darurat ke penjaga pantai.",
+        "thumbnail": "https://akcdn.detik.net.id/visual/2018/11/24/e3456e92-c06a-46a1-b8ce-6c44b9640908_169.jpeg?w\u003d360\u0026q\u003d90"
+      },
+      {
+        "link": "https://www.cnnindonesia.com/olahraga/20220423215558-156-788810/mario-aji-pertajam-rekor-pembalap-indonesia",
+        "title": "Mario Aji Pertajam Rekor Pembalap Indonesia",
+        "pubDate": "2022-04-23T15:07:31.000Z",
+        "description": "Mario Aji mengukir sejarah sekaligus mempertajam rekor pembalap Indonesia setelah menuntaskan kualifikasi Moto3 Portugal.",
+        "thumbnail": "https://akcdn.detik.net.id/visual/2022/02/22/mario-aji-di-tes-moto3-2022-di-sirkuit-portimao-1_169.jpeg?w\u003d360\u0026q\u003d90"
+      },
+      {
+        "link": "https://www.cnnindonesia.com/nasional/20220420145241-20-787312/terminal-cicaheum-dan-leuwipanjang-bandung-mulai-dipadati-pemudik",
+        "title": "Terminal Cicaheum dan Leuwipanjang Bandung Mulai Dipadati Pemudik",
+        "pubDate": "2022-04-23T15:02:20.000Z",
+        "description": "Terminal Bus Cicaheum dan Leuwipanjang di Kota Bandung, Jawa Barat mulai dipadati pemudik pada H-9 Idul Fitri atau Sabtu (23/4).",
+        "thumbnail": "https://akcdn.detik.net.id/visual/2022/03/28/penggunaan-aplikasi-peduli-lindungi-sebagai-syarat-mudik-lebaran-2_169.jpeg?w\u003d360\u0026q\u003d90"
+      },
+      {
+        "link": "https://www.cnnindonesia.com/olahraga/20220423212525-142-788807/rangnick-peluang-man-utd-ke-4-besar-habis",
+        "title": "Rangnick: Peluang Man Utd ke 4 Besar Habis",
+        "pubDate": "2022-04-23T14:35:11.000Z",
+        "description": "Pelatih Ralf Rangnick mengatakan peluang Manchester United ke empat besar Liga Inggris habis setelah dihajar Arsenal 1-3, Sabtu (23/4).",
+        "thumbnail": "https://akcdn.detik.net.id/visual/2022/04/23/soccer-england-ars-munreport-1_169.jpeg?w\u003d360\u0026q\u003d90"
+      },
+      {
+        "link": "https://www.cnnindonesia.com/nasional/20220423203555-20-788800/warga-jatim-diimbau-waspada-pesan-wa-mengatasnamakan-hj-khofifa",
+        "title": "Warga Jatim Diimbau Waspada Pesan WA Mengatasnamakan Hj Khofifa",
+        "pubDate": "2022-04-23T14:30:10.000Z",
+        "description": "Khofifah mengaku mendapat laporan dari beberapa koleganya bahwa ada akun WhatsApp bergambar foto profil dirinya.",
+        "thumbnail": "https://akcdn.detik.net.id/visual/2020/04/20/c00d1b2a-0470-43a9-a14a-3c7773f639a0_169.jpeg?w\u003d360\u0026q\u003d90"
+      },
+      {
+        "link": "https://www.cnnindonesia.com/hiburan/20220422235535-220-788617/7-rekomendasi-serial-untuk-sahur-the-good-place-hingga-soundtrack-1",
+        "title": "7 Rekomendasi Serial untuk Sahur, The Good Place hingga Soundtrack #1",
+        "pubDate": "2022-04-23T14:05:01.000Z",
+        "description": "7 rekomendasi serial untuk sahur pekan ini, seperti The Good Place, Soundtrack #1, hingga Ice Age: Scrat Tales.",
+        "thumbnail": "https://akcdn.detik.net.id/visual/2021/07/12/serial-the-good-place_169.png?w\u003d360\u0026q\u003d90"
+      }
+    ]
+  }
+}
